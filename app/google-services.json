@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133261281038",
+    "project_id": "budetingappfirebase",
+    "storage_bucket": "budetingappfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133261281038:android:cef8342b4ce6f156c9795f",
+        "android_client_info": {
+          "package_name": "com.example.poegroup4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Uiw6bRn_JbcsTKECsSGu6cGGuxZd0Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
